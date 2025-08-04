@@ -1,0 +1,6 @@
+gradio
+opencv-python-headless
+pillow
+pillow-heif
+geopy
+exifread
